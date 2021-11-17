@@ -1,0 +1,47 @@
+* {
+				padding: 0px;
+				margin: 0px;
+			}
+			
+			.mouses {
+				width: 800px;
+				margin: 0px auto;
+			}
+			
+			.toolbar,
+			.start {
+				height: 60px;
+				line-height: 60px;
+				color: white;
+				background-color: #7cd3b1;
+				border: 2px solid #60a58a;
+				border-top: none;
+			}
+			
+			.levels{
+				padding-left: 30px;
+				
+			}
+			
+			.tLeft {
+				float: left;
+				margin-left: 40px;
+			}
+			
+			.tRight {
+				float: right;
+				margin-right: 40px;
+			}
+			
+			.mouse {
+				width: 20%;
+				float: left;
+			}
+			
+			.start {
+				clear: both;
+				text-align: center;
+				cursor: pointer;
+			}
+
+			
